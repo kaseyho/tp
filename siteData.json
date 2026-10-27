@@ -51,6 +51,8 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
+        "completing-a-follow-up": "Completing a follow-up",
+        "viewing-due-follow-ups": "Viewing due follow-ups",
         "documentation-logging-testing-dev-ops": "Documentation, logging, testing, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
@@ -60,10 +62,12 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
+        "listing-contacts-with-filters": "Listing contacts with filters",
         "deleting-a-contact": "Deleting a contact",
         "adding-a-contact-with-a-follow-up-date": "Adding a contact with a follow-up date",
         "editing-a-contact": "Editing a contact",
-        "completing-a-follow-up": "Completing a follow-up",
+        "completing-a-follow-up-2": "Completing a follow-up",
+        "viewing-follow-ups-that-are-due": "Viewing follow-ups that are due",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
@@ -78,9 +82,9 @@
     },
     {
       "src": "Logging.md",
-      "title": "Logging guide",
       "headings": {
-        "logging-guide": "Logging guide"
+        "logging-guide": "Logging guide",
+        "follow-up-list-and-help-diagnostics": "Follow-up, list and Help diagnostics"
       },
       "headingKeywords": {}
     },
@@ -113,11 +117,14 @@
         "features": "Features",
         "viewing-help-help": "Viewing help: help",
         "adding-a-contact-add": "Adding a contact: add",
-        "listing-all-contacts-list": "Listing all contacts: list",
+        "listing-contacts-list": "Listing contacts: list",
         "editing-a-contact-edit": "Editing a contact: edit",
-        "finding-contacts-by-name-find": "Finding contacts by name: find",
+        "finding-contacts-by-name-or-phone-find": "Finding contacts by name or phone: find",
         "deleting-a-contact-delete": "Deleting a contact: delete",
         "completing-a-follow-up-done": "Completing a follow-up: done",
+        "adding-an-interaction-note-note": "Adding an interaction note: note",
+        "viewing-interaction-history-history": "Viewing interaction history: history",
+        "viewing-follow-ups-that-are-due-due": "Viewing follow-ups that are due: due",
         "clearing-all-contacts-clear": "Clearing all contacts: clear",
         "exiting-the-program-exit": "Exiting the program: exit",
         "saving-the-data": "Saving the data",
